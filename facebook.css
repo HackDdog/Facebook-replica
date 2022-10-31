@@ -1,0 +1,65 @@
+*{
+	size: ;
+	background: #f2f6fb;
+}
+h1 {
+	font-family: sans-serif;
+	font-size: 70px;
+	margin-bottom: 0px;
+	color: #4681de;
+}
+h2 {
+	line-height: 35px;
+	font-size: 40px;
+	margin-top: 0px;
+	font-weight: normal;
+}
+.text {
+	margin-left: 400px;
+	margin-top: 300px;
+}
+.inputbox {
+	margin-left: 1300px;
+	margin-top: -300px;
+	text-align: center;
+	line-height: 40px;
+	background: white;
+	height: 500px;
+	width: 500px;
+	border-radius: 20px;
+	box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.20);
+}
+.inputs {
+	margin-top: 35px;
+	font-size: 30px;
+	border-radius: 10px;
+	padding: 20px;
+	height: 25px;
+}
+.loginbutton {
+	border: none;
+	color: white;
+	background-color: #4681de;
+	margin-top: 20px;
+	font-size: 25px;
+	border-radius: 10px;
+	padding: 15px;
+	width: 410px;
+}
+.forgotpass {
+	font-size: 18px;
+	background-color: white;
+	margin-top: 20px;
+	border: none;
+	color: #4681de;
+}
+.createacc {
+	padding: 10px;
+	width: 250px;
+	border-radius: 10px;
+	margin-top: 30px;
+	font-size: 25px;
+	border: none;
+	background-color: #4dc559;
+	color: white;
+}
